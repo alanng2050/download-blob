@@ -1,4 +1,4 @@
-export const downloadBlob = ({
+export const saveBlob = ({
   blob,
   filename,
 }: {

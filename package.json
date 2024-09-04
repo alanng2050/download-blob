@@ -1,8 +1,8 @@
 {
-  "name": "download-blob",
+  "name": "@tinychange/save-blob",
   "version": "1.0.1",
   "description": "",
-  "private": true,
+  "private": false,
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
